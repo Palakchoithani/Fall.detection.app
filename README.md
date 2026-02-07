@@ -76,8 +76,8 @@ health_companion/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/health-companion.git
-cd health-companion
+git clone https://github.com/palakchoithani/fall.detection.app.git
+cd fall.detection.app
 ```
 
 2. **Install dependencies**
@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Palak Choithani - Initial work
 
 ## 🙏 Acknowledgments
 
