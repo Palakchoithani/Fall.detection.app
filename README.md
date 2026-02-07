@@ -280,3 +280,4 @@ For support, email support@healthcompanion.com or open an issue in the repositor
 
 Made with ❤️ for better healthcare# Fall.detection.app
 # Fall.detection.app
+# Fall.detection.app
